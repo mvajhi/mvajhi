@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mahdi vajhi</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A passionate developer from Iran</h3>
 
 - 🔭 I’m currently working on [AI](https://github.com/mvajhi/AI.cs50xiran)
 
