@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm mahdi vajhi</h1>
+<h1 align="center">Hi <img align="center" src="waving_hand_edit.gif" width="43" />, I'm mahdi vajhi</h1>
 <h3 align="center">A passionate developer from Iran</h3>
 
-- 🔭 I’m currently working on [AI](https://github.com/mvajhi/AI.cs50xiran)
+<img align="center" src="thinking_face (1).gif" width="34" /> I’m currently working on [CS50AI](https://github.com/mvajhi/AI.cs50xiran)
 
-- 🌱 I’m currently learning **cs50, cs50AI**
+<img align="center" src="nerd_face.gif" width="34" /> I’m currently learning **cs50, cs50AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mvajhi?tab=repositories](https://github.com/mvajhi?tab=repositories)
+<img align="center" src="sparkles.gif" width="34" /> All of my projects are available at [Github](https://github.com/mvajhi?tab=repositories)
 
-- 📫 How to reach me **mvajhimv@gmail.com**
+<img align="center" src="handshake.gif" width="34" /> How to reach me **mvajhimv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
