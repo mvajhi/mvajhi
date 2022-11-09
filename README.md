@@ -7,7 +7,7 @@
 
 <img align="center" src="sparkles.gif" width="34" /> All of my projects are available at [Github](https://github.com/mvajhi?tab=repositories)
 
-<img align="center" src="handshake.gif" width="34" /> How to reach me **mvajhimv@gmail.com**
+<img align="center" src="handshake.gif" width="34" /> How to reach me **mvajhimv@ut.ac.ir**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
