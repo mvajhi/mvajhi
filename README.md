@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img align="center" src="waving_hand_edit.gif" width="43" />, I'm mahdi vajhi</h1>
 <h3 align="center">A passionate developer from Iran</h3>
 
-<img align="center" src="thinking_face (1).gif" width="34" /> I’m currently working on [CS50AI](https://github.com/mvajhi/AI.cs50xiran)
+<img align="center" src="thinking_face (1).gif" width="34" /> I’m currently working on [CS50AI](https://github.com/mvajhi/AI.cs50xiran), [advance programming UT](https://github.com/mvajhi/advance-programming-UT)
 
 <img align="center" src="nerd_face.gif" width="34" /> I’m currently learning **cs50, cs50AI**
 
