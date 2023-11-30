@@ -1,9 +1,7 @@
 <h1 align="center">Hi <img align="center" src="waving_hand_edit.gif" width="43" />, I'm mahdi vajhi</h1>
-<h3 align="center">A passionate developer from Iran</h3>
+<h3 align="center">A computer engineering student from Iran</h3>
 
-<img align="center" src="thinking_face (1).gif" width="34" /> I’m currently working on [CS50AI](https://github.com/mvajhi/AI.cs50xiran), [advance programming UT](https://github.com/mvajhi/advance-programming-UT)
-
-<img align="center" src="nerd_face.gif" width="34" /> I’m currently learning **cs50, cs50AI**
+<img align="center" src="thinking_face (1).gif" width="34" /> I’m currently working on [data structure and algorithms](https://github.com/mvajhi/data-structure-and-algorithms), [digital system design](https://github.com/mvajhi/digital-system-design), [probability and statistics in engineering](https://github.com/mvajhi/Probability_and_Statistics_in_Engineering)
 
 <img align="center" src="sparkles.gif" width="34" /> All of my projects are available at [Github](https://github.com/mvajhi?tab=repositories)
 
